@@ -1,4 +1,4 @@
-baseURL = "https://datakrewtech.github.io/blog/"
+baseURL = "https://datakrew.blog/"
 title = "The Datakrew Blog"
 subtitle = "A portal into what's brewing at Datakrew"
 languageCode = "en-us"
