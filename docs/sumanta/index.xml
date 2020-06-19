@@ -6,18 +6,18 @@
     <description>Recent content in Sumanta on The Datakrew Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 Jun 2020 22:27:26 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2020 02:27:43 +0800</lastBuildDate>
     
 	<atom:link href="https://datakrew.blog/sumanta/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>My Experience as CEO</title>
-      <link>https://datakrew.blog/my-experience-as-ceo/</link>
-      <pubDate>Fri, 19 Jun 2020 22:27:26 +0800</pubDate>
+      <title>Why 98% of IoT traffic is unencrypted - And what it means for companies</title>
+      <link>https://datakrew.blog/why-98-of-iot-traffic-is-unencrypted/</link>
+      <pubDate>Sat, 20 Jun 2020 02:27:43 +0800</pubDate>
       
-      <guid>https://datakrew.blog/my-experience-as-ceo/</guid>
-      <description></description>
+      <guid>https://datakrew.blog/why-98-of-iot-traffic-is-unencrypted/</guid>
+      <description>A March 2020 publication by Unit 42 of Palo Alto Networks has reported the analysis results of 1.2 million IoT devices from over thousands of physical locations across enterprise IT and healthcare organizations in the United States. The objective was to identify the top IoT threats and provide recommendations that organizations can take to immediately reduce IoT risk in their environments. The results of the report is no less than shocking, and a timely alarm for a much needed paradigm shift in today&amp;rsquo;s IoT ecosystem.</description>
     </item>
     
   </channel>
