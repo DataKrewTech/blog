@@ -6,10 +6,28 @@
     <description>Recent content on The Datakrew Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2020 22:27:26 +0800</lastBuildDate>
     
 	<atom:link href="https://datakrew.blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>My Experience as CEO</title>
+      <link>https://datakrew.blog/my-experience-as-ceo/</link>
+      <pubDate>Fri, 19 Jun 2020 22:27:26 +0800</pubDate>
+      
+      <guid>https://datakrew.blog/my-experience-as-ceo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What Is ITUS</title>
+      <link>https://datakrew.blog/what-is-itus/</link>
+      <pubDate>Fri, 19 Jun 2020 22:25:37 +0800</pubDate>
+      
+      <guid>https://datakrew.blog/what-is-itus/</guid>
+      <description>What is ITUS </description>
+    </item>
     
     <item>
       <title>Basic HTML Elements</title>
