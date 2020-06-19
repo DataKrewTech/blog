@@ -8,9 +8,9 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 publishDir = "docs"
 
 [Author]
-  name = "John Doe"
-  bio = "John Doe's true identity is unknown. Maybe he is a successful blogger or writer. Nobody knows it."
-  avatar = "img/avatar.png"
+  name = "Datakrew"
+  bio = "[Datakrew](https://datakrew.com) is an IoT, AI and cybersecurity startup based in Singapore, supported by NTU Singapore and Enterprise Singapore."
+#  avatar = "img/avatar.png"
 
 [Params]
   description = "The Datakrew Blog - A portal into what's brewing at Datakrew" # Description of your site
