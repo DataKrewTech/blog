@@ -20,6 +20,7 @@ publishDir = "docs"
   authorbox = true
   pager = true
   post_meta = ["date", "categories"] # Order of post meta information
+  highlightColor = "#51a6af"
 
 [Params.logo]
   subtitle = "A portal into what's brewing at Datakrew" # Logo subtitle
