@@ -13,7 +13,7 @@ publishDir = "docs"
   avatar = "img/avatar.png"
 
 [Params]
-  description = "John Doe's Personal blog about everything" # Description of your site
+  description = "The Datakrew Blog - A portal into what's brewing at Datakrew" # Description of your site
   opengraph = true
   twitter_cards = false
   readmore = false # Show "Read more" button in list if true
